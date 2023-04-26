@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWrittter
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Java, C++, and Python
-- 💞️ I’m looking to collaborate on thé project I called *Hope*
+- 💞️ I’m looking to collaborate on the project I called *Hope*
 - 📫 How to reach me, my TG account @CodeWritter
 
 <!---
