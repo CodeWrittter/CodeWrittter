@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWritter
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java, C++, and Python
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Java, Flutter, and Python (Django)
 - 💞️ I’m looking to collaborate on the project I called *Hope*
 - 📫 How to reach me, my TG account @CodeWritter
 
